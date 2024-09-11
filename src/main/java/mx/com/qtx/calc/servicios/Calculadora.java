@@ -6,4 +6,8 @@ public class Calculadora {
 		return suma;
 	}
 
+	public double sumar(int...nums) {
+		return 0;
+	}
+	
 }
